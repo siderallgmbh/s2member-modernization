@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ruleset name="s2Member Modernization">
+    <description>Portfolio modernization coding standards.</description>
+    <file>src</file>
+    <file>tests</file>
+    <file>s2member-modernization.php</file>
+    <arg name="extensions" value="php"/>
+    <rule ref="WordPress-Core"/>
+    <rule ref="WordPress-Extra"/>
+    <exclude-pattern>vendor/*</exclude-pattern>
+</ruleset>
