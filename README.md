@@ -38,7 +38,7 @@ No s2Member Pro code is included.
 - REST endpoint with explicit permission handling
 - audit logging abstraction
 - unit tests without booting WordPress
-- PHPCS / WordPress Coding Standards
+- PHPCS / PSR-12
 - PHPStan static analysis
 - GitHub Actions CI
 
