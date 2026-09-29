@@ -1,0 +1,15 @@
+# License
+
+This modernization project is licensed under the **GNU General Public License, version 2 or later (GPL-2.0-or-later)**.
+
+You may redistribute and/or modify this project under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
+
+A copy of the GPL is available at:
+
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+## Upstream attribution
+
+This project references concepts and behaviour from the open-source s2Member Framework by WP Sharks.
+
+No s2Member Pro source code is included in this repository.
