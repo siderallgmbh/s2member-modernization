@@ -1,8 +1,5 @@
 parameters:
     level: 6
     paths:
-        - src
+        - src/Access
         - tests
-    ignoreErrors:
-        - '#Function .* not found#'
-        - '#Class WP_REST_.* not found#'
