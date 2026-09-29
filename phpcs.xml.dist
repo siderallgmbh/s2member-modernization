@@ -1,11 +1,9 @@
 <?xml version="1.0"?>
 <ruleset name="s2Member Modernization">
-    <description>Portfolio modernization coding standards.</description>
+    <description>PSR-12 coding standards for the namespaced PHP codebase.</description>
     <file>src</file>
     <file>tests</file>
-    <file>s2member-modernization.php</file>
     <arg name="extensions" value="php"/>
-    <rule ref="WordPress-Core"/>
-    <rule ref="WordPress-Extra"/>
+    <rule ref="PSR12"/>
     <exclude-pattern>vendor/*</exclude-pattern>
 </ruleset>
